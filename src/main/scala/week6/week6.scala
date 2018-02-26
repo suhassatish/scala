@@ -102,6 +102,7 @@ object week6 {
       .map(j => (i, j)))
 
   //----------------------------------------------------------------------------------
+  /*
   val e1 = List()
   val e2 = List()
   val s = Seq()
@@ -111,6 +112,7 @@ object week6 {
 
   //above is equivalent to
   e1.flatMap(x => for (y <- e2; s) yield e3)
+  */
   //----------------------------------------------------------------------------------
   //Map collection type querying
   val capitalOfCountry = Map("US" -> "Washington", "Switzerland" -> "Bern")

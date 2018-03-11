@@ -1,10 +1,11 @@
-course := "progfun1"
-assignment := "recfun"
+course := "bigdata"
+assignment := "wikipedia"
 
 assignmentInfo := AssignmentInfo(
-  key = "SNYuDzZEEeWNVyIAC92BaQ",
-  itemId = "Yljln",
-  premiumItemId = Some("Ey6Jf"),
-  partId = "PzVVY",
-  styleSheet = Some((_: File) / "scalastyle" / "scalastyle_config.xml")
+  key = "EH8wby4kEeawURILfHIqjw",
+  itemId = "CfQX2",
+  premiumItemId = Some("QcWcs"),
+  partId = "5komc",
+  styleSheet = None
+  //styleSheet = Some((_: File) / "scalastyle" / "scalastyle_config.xml")
 )

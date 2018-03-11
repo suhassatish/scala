@@ -1,0 +1,2 @@
+Download this data file (130 MB). Too big of a blob to check-in to github
+http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat

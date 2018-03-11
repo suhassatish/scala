@@ -28,5 +28,5 @@ libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.4" % "test"
 // include the common dir
 commonSourcePackages += "common"
 
-courseId := "bRPXgjY9EeW6RApRXdjJPw"
+//courseId := "bRPXgjY9EeW6RApRXdjJPw"
 
